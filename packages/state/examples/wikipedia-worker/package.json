@@ -11,7 +11,7 @@
   "dependencies": {
     "@durable-streams/client": "workspace:*",
     "@durable-streams/state": "workspace:*",
-    "zod": "^3.24.1"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^22.15.21",
